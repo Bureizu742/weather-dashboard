@@ -1,4 +1,4 @@
-// //api key for weather is: b12628cfae272b1317d9133676c88965
+//api key for weather is: b12628cfae272b1317d9133676c88965
 
 var myKey = "b12628cfae272b1317d9133676c88965";
 var city = "";
